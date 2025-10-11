@@ -1,0 +1,18 @@
+* {
+	background-color:#8ECAE6
+}
+p {
+	text-align:center;
+	color:white;
+}
+#para1 {
+	text-align:center;
+	color:red;
+}
+.center {
+	color:#34A0A4;
+}
+p:hover {
+	color:hotpink;
+}
+

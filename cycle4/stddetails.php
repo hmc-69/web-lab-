@@ -8,8 +8,7 @@
 Name: <input type="text" name="name"><br><br>
 Email id: <input type="email" name="mail"><br><br>
 Address: <textarea rows="4" name="adrs"></textarea><br><br>
-Gender: M <input type="radio" value="M" name="gender"> F <input type="radio"
-value="F" name="gender"><br><br>
+Gender: M <input type="radio" value="M" name="gender"> F <input type="radio" value="F" name="gender"><br><br>
 DOB: <input type="date" name="dob"><br><br>
 <input type="submit" value="Submit">
 </form>
